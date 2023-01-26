@@ -1,0 +1,2 @@
+class Tron < ApplicationRecord
+end
